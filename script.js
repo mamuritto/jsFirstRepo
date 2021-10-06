@@ -1,4 +1,4 @@
-const a = 1
+const a = "another"
 const b = "Our first lesson"
 
 const logged = () => {
