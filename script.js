@@ -1,2 +1,4 @@
 console.log(213);
-alert("hello")
+alert("hello");
+alert("world");
+alert("!!");
