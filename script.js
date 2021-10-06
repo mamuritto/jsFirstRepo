@@ -1,4 +1,6 @@
-console.log(213);
-alert("hello");
-alert("world");
-alert("!!");
+const div = document.getElementById('github')
+
+const logged = () => {
+    console.log("commits");
+}
+// comment
