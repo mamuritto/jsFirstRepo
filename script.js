@@ -1,3 +1,7 @@
-const a = 1
-const b = "Our first lesson"
-const c = 22
+var title;
+var screens;
+var screenPrice;
+var rollback;
+var fullPrice;
+var adaptive;
+
