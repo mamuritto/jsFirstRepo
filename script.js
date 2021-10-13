@@ -4,6 +4,7 @@ var screenPrice = 11;
 var rollback = 17;
 var fullPrice = 500;
 var adaptive = true;
+var num = 266219;
 console.log(typeof title); 
 console.log(typeof fullPrice); 
 console.log(typeof adaptive); 
